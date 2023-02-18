@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_job_name_with_urls",
+  "info": {
+    "displayName": "nameWithUrl"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

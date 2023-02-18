@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_contacts_min_contact_infos",
+  "info": {
+    "displayName": "minContactInfo"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "phone": {
+      "displayName": "phoneNumber",
+      "type": "component",
+      "repeatable": false,
+      "component": "contacts.phone-number"
+    }
+  }
+}

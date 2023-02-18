@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_misc_lists",
+  "info": {
+    "displayName": "list",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "value": {
+      "type": "string"
+    }
+  }
+}

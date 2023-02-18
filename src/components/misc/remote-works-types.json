@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_misc_remote_works_types",
+  "info": {
+    "displayName": "remoteWorksTypes",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "remoteWorkOptions": {
+      "type": "enumeration",
+      "enum": [
+        "fully",
+        "hybrid",
+        "none"
+      ]
+    }
+  }
+}

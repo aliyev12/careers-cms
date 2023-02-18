@@ -1,0 +1,51 @@
+{
+  "collectionName": "components_job_compensations",
+  "info": {
+    "displayName": "compensation",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "frequency": {
+      "type": "enumeration",
+      "enum": [
+        "hourly",
+        "weekly",
+        "monthly",
+        "bi-monthly",
+        "annual",
+        "other"
+      ],
+      "required": true,
+      "default": "annual"
+    },
+    "setAmount": {
+      "required": false,
+      "type": "integer"
+    },
+    "currency": {
+      "type": "enumeration",
+      "enum": [
+        "usd",
+        "eur",
+        "jpy",
+        "mxn"
+      ],
+      "required": true
+    },
+    "lowestAmount": {
+      "type": "integer"
+    },
+    "highestAmount": {
+      "type": "integer"
+    },
+    "amountType": {
+      "type": "enumeration",
+      "enum": [
+        "set",
+        "range"
+      ],
+      "required": true
+    }
+  }
+}

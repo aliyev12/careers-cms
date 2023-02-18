@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_page_section_additional_sections",
+  "info": {
+    "displayName": "additionalSections"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "body": {
+      "type": "richtext",
+      "required": true
+    },
+    "weight": {
+      "type": "integer",
+      "required": true
+    }
+  }
+}

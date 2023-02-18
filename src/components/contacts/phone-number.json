@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_contacts_phone_numbers",
+  "info": {
+    "displayName": "phoneNumber"
+  },
+  "options": {},
+  "attributes": {
+    "countryCode": {
+      "type": "integer"
+    },
+    "phoneWithArea": {
+      "type": "integer"
+    }
+  }
+}

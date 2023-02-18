@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_misc_job_schedule_types",
+  "info": {
+    "displayName": "jobScheduleTypes",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "schedule": {
+      "type": "enumeration",
+      "enum": [
+        "full",
+        "part"
+      ]
+    }
+  }
+}

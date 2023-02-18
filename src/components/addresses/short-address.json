@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_addresses_short_addresses",
+  "info": {
+    "displayName": "shortAddress"
+  },
+  "options": {},
+  "attributes": {
+    "city": {
+      "type": "string"
+    },
+    "state": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    }
+  }
+}

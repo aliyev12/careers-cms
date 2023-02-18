@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_misc_experience_levels",
+  "info": {
+    "displayName": "experienceLevel"
+  },
+  "options": {},
+  "attributes": {
+    "value": {
+      "type": "enumeration",
+      "enum": [
+        "entry",
+        "mid",
+        "senior",
+        "none"
+      ]
+    }
+  }
+}
